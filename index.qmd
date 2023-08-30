@@ -1,5 +1,5 @@
 ---
-title: "Learning - Azure Cloud Security"
+title: "Learning - Azure Cloud Infrastructure"
 ---
 
 This is a Quarto website.
