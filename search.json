@@ -7,30 +7,16 @@
     "text": "About this site"
   },
   {
-    "objectID": "initiative.html",
-    "href": "initiative.html",
-    "title": "Initiative",
-    "section": "",
-    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-security-initiative/"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Learning - Azure Cloud Security",
-    "section": "",
-    "text": "Table of contents\n\nLearning Azure Cloud Security"
-  },
-  {
     "objectID": "themes.html",
     "href": "themes.html",
     "title": "Themes",
     "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-security-themes/"
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-themes/"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning - Azure Cloud Security",
+    "title": "Learning - Azure Cloud Infrastructure",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
@@ -39,6 +25,20 @@
     "href": "use-cases.html",
     "title": "Use Cases",
     "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-security-use-cases/"
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-use-cases/"
+  },
+  {
+    "objectID": "initiative.html",
+    "href": "initiative.html",
+    "title": "Initiative",
+    "section": "",
+    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-initiative/"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Azure Cloud Infrastructure"
   }
 ]
