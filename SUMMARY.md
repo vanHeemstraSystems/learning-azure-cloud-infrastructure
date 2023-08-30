@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Azure Cloud Security](README.md)
+* [Learning Azure Cloud Infrastructure](README.md)
