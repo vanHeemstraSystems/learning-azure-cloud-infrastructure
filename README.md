@@ -7,7 +7,7 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Azure Cloud Infrastructure" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
+Can be read as "Learning - Azure Cloud Infrastructure" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/AvZoKQQUy0VQGdBNpeWZ/
 
 Can be browsed as "Learning - Azure Cloud Infrastructure" at https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure/
 
