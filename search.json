@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
     "section": "",
-    "text": "About this site"
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-use-cases/"
   },
   {
     "objectID": "themes.html",
@@ -21,18 +21,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-use-cases/"
-  },
-  {
-    "objectID": "initiative.html",
-    "href": "initiative.html",
-    "title": "Initiative",
-    "section": "",
-    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-initiative/"
+    "text": "About this site"
   },
   {
     "objectID": "SUMMARY.html",
@@ -40,5 +33,12 @@
     "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nLearning Azure Cloud Infrastructure"
+  },
+  {
+    "objectID": "initiative.html",
+    "href": "initiative.html",
+    "title": "Initiative",
+    "section": "",
+    "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-azure-cloud-infrastructure-initiative/"
   }
 ]
